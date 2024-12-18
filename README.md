@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a social wellness application.
 <!--
 - 🤔 I’m looking for help with ...
--->
 - 💬 Ask me about ...
+-->
 - 📫 How to reach me: https://www.linkedin.com/in/jontek36/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was very close to 'Soloing' an aircraft while in high school.
