@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on various full stack projects to display my technical skills set.
-- 🌱 I’m currently learning MERN Full Stack Software Engineering.
-- 👯 I’m looking to collaborate on a social wellness application.
+- 🌱 MERN Full Stack Software Engineer.
+- 👯 I’m looking to collaborate on a wellness application.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
